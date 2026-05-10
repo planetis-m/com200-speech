@@ -68,7 +68,8 @@ That is the core deception.
 
 **Visual anchors:**  
 Stat card: 1 vote  
-Bullets: elections without rule, citizens as spectators  
+Panel: Democratic appearance  
+Panel: Oligarchic command  
 Phrase: oligarchy with democratic branding
 
 **Emphasis moment:**  
@@ -150,7 +151,7 @@ But representation without command is not rule.
 It is delegation without control.
 
 **Visual anchors:**  
-Funnel: Citizens → Parties → Parliament → Policy  
+Simple flow: Citizens ↓ Parties ↓ Parliament  
 Bullets: voters ratify options, party line, citizens lose command
 
 **Emphasis moment:**  
@@ -191,7 +192,7 @@ where public authority is captured by organized interests.
 **Visual anchors:**  
 Stat card: 50/100  
 Bullets: party machines, economic oligarchy, media influence  
-Visual: power network
+Panel: Access becomes power
 
 **Emphasis moment:**  
 Access becomes the real **constitution**.
@@ -229,8 +230,7 @@ cannot control power.
 
 **Visual anchors:**  
 Stat cards: 86/180 and 55.05  
-Bullets: wiretapping, SLAPP pressure, accountability deficit  
-Chart placeholder
+Bullets: wiretapping, SLAPP pressure, accountability deficit
 
 **Emphasis moment:**  
 Information is the first condition of **control**.
@@ -274,7 +274,8 @@ Power must move from representatives back to citizens.
 
 **Visual anchors:**  
 Title: Constitutional Makeover  
-Circle: Citizen Body ↔ Constitution ↔ Institutions  
+Panel: Citizen Body  
+Tool line: referendum, initiative, recall, audit, justice  
 Bullets: referenda, legislative power, recall
 
 **Emphasis moment:**  
@@ -318,6 +319,7 @@ This is not a stylistic difference.
 It is a different location of power.
 
 **Visual anchors:**  
+Two-column comparison  
 Left: Republic as Oligarchy  
 Right: Constitutional Democracy  
 Red vs green contrast
@@ -359,7 +361,7 @@ How will citizens control power
 after election day?
 
 **Visual anchors:**  
-Checklist image  
+Image: civic checklist  
 Bullets: constitutional reform, referenda, recall  
 Bottom line: citizens must become an institution
 

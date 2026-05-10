@@ -109,6 +109,31 @@
   #text(size: 16pt, fill: muted)[#label]
 ]
 
+#let simple-box(title, subtitle: none, accent: blue) = rect(
+  width: 100%,
+  radius: 8pt,
+  stroke: 1pt + border,
+  fill: white,
+  inset: 16pt,
+)[
+  #text(size: 20pt, weight: "bold", fill: accent)[#title]
+  #if subtitle != none {
+    v(6pt)
+    text(size: 14pt, fill: muted)[#subtitle]
+  }
+]
+
+#let compact-label(body, color: muted) = text(size: 12pt, fill: color)[#body]
+
+#let bar(label, width, tag, color: blue) = grid(
+  columns: (1.2in, 1fr, auto),
+  gutter: 10pt,
+  align: (left, horizon),
+  compact-label(label),
+  rect(width: width, height: 12pt, fill: color, radius: 2pt),
+  compact-label(tag, color: color),
+)
+
 // Slide 1
 #slide[
   Republic Disguised as Democracy
@@ -140,7 +165,22 @@
   ][
     #stat-card("1 vote", "Political equality is necessary, not sufficient", color: blue)
     #v(0.2in)
-    #img-fit("assets/democracy-dashboard.png", height: 2.2in)
+    #grid(
+      columns: (1fr,),
+      rows: (auto, auto, auto),
+      gutter: 14pt,
+      rect(width: 100%, radius: 8pt, stroke: 1pt + border, fill: white, inset: 18pt)[
+        #text(size: 22pt, weight: "bold", fill: navy)[Democratic appearance]
+        #v(10pt)
+        #text(size: 18pt, fill: muted)[elections · parties · parliament]
+      ],
+      align(center)[#text(size: 24pt, weight: "bold", fill: gold)[≠]],
+      rect(width: 100%, radius: 8pt, stroke: 1pt + border, fill: white, inset: 18pt)[
+        #text(size: 22pt, weight: "bold", fill: red)[Oligarchic command]
+        #v(10pt)
+        #text(size: 18pt, fill: muted)[agenda · law · enforcement]
+      ],
+    )
   ]
 ]
 
@@ -157,8 +197,8 @@
       [No continuous sovereignty],
     ))
   ][
-    #img-fit("assets/citizen-assembly.jpg", height: 2.9in)
-    #v(0.18in)
+    #img-fit("assets/citizen-assembly.jpg", height: 2.75in)
+    #v(0.2in)
     #text(size: 18pt, fill: muted)[Aristotle · Rousseau · Dahl]
   ]
 ]
@@ -178,22 +218,18 @@
       [Citizens lose command],
     ))
   ][
-    #rect(width: 100%, height: 3.5in, radius: 8pt, stroke: 1pt + border, fill: white, inset: 18pt)[
-      #align(center)[
-        #text(size: 20pt, weight: "bold", fill: navy)[Citizens]
-        #v(10pt)
-        #text(size: 28pt, fill: gold)[↓]
-        #v(10pt)
-        #text(size: 20pt, weight: "bold", fill: navy)[Parties]
-        #v(10pt)
-        #text(size: 28pt, fill: gold)[↓]
-        #v(10pt)
-        #text(size: 20pt, weight: "bold", fill: navy)[Parliament]
-        #v(10pt)
-        #text(size: 28pt, fill: gold)[↓]
-        #v(10pt)
-        #text(size: 20pt, weight: "bold", fill: navy)[Policy]
-      ]
+    #align(center)[
+      #simple-box("Citizens", subtitle: "formal source", accent: green)
+      #v(8pt)
+      #text(size: 24pt, fill: gold)[↓]
+      #v(8pt)
+      #simple-box("Parties", subtitle: "candidate filter", accent: red)
+      #v(8pt)
+      #text(size: 24pt, fill: gold)[↓]
+      #v(8pt)
+      #simple-box("Parliament", subtitle: "party discipline", accent: red)
+      #v(10pt)
+      #text(size: 15pt, fill: muted)[Policy descends after citizens ratify options]
     ]
   ]
 ]
@@ -213,7 +249,15 @@
   ][
     #stat-card("50/100", "Corruption perception score · Greece", color: red)
     #v(0.2in)
-    #img-fit("assets/power-network.svg", height: 2.2in)
+    #rect(width: 100%, height: 2.55in, radius: 8pt, stroke: 1pt + border, fill: white, inset: 18pt)[
+      #text(size: 22pt, weight: "bold", fill: red)[Access becomes power]
+      #v(14pt)
+      #bullets((
+        [party entry],
+        [media visibility],
+        [state appointments],
+      ))
+    ]
   ]
 ]
 
@@ -233,10 +277,6 @@
       [Information control],
       [Accountability deficit],
     ))
-    #v(0.2in)
-    #rect(width: 100%, height: 1.35in, radius: 8pt, stroke: 1pt + border, fill: white, inset: 12pt)[
-      #text(size: 16pt, fill: muted)[Chart placeholder: Greece vs selected EU press freedom ranks]
-    ]
   ]
 ]
 
@@ -254,18 +294,14 @@
       [Anti-corruption prosecution],
     ))
   ][
-    #rect(width: 100%, height: 3.4in, radius: 8pt, stroke: 1pt + border, fill: white, inset: 18pt)[
-      #align(center + horizon)[
-        #text(size: 22pt, weight: "bold", fill: navy)[Citizen Body]
-        #v(8pt)
-        #text(size: 28pt, fill: gold)[↔]
-        #v(8pt)
-        #text(size: 22pt, weight: "bold", fill: blue)[Constitution]
-        #v(8pt)
-        #text(size: 28pt, fill: gold)[↔]
-        #v(8pt)
-        #text(size: 22pt, weight: "bold", fill: green)[Institutions]
-      ]
+    #rect(width: 100%, height: 3.4in, radius: 8pt, stroke: 1pt + border, fill: white, inset: 20pt)[
+      #text(size: 26pt, weight: "bold", fill: green)[Citizen Body]
+      #v(12pt)
+      #text(size: 20pt, fill: muted)[must become a constitutional institution]
+      #v(28pt)
+      #line(length: 100%, stroke: 1pt + gold)
+      #v(28pt)
+      #text(size: 18pt, fill: navy)[referendum · initiative · recall · audit · justice]
     ]
   ]
 ]
@@ -276,26 +312,36 @@
 #slide[
   Visualization · Two Political Orders
 ][
-  #two-col[
-    #text(size: 24pt, weight: "bold", fill: red)[Republic as Oligarchy]
-    #v(0.18in)
-    #bullets((
-      [Voting ritual],
-      [Party command],
-      [Elite bargaining],
-      [Opaque decisions],
-      [Managed citizens],
-    ))
-  ][
-    #text(size: 24pt, weight: "bold", fill: green)[Constitutional Democracy]
-    #v(0.18in)
-    #bullets((
-      [Citizen rule],
-      [Direct mandate],
-      [Recall],
-      [Public audit],
-      [Accountable institutions],
-    ))
+  #rect(width: 100%, height: 4.6in, radius: 8pt, stroke: 1pt + border, fill: white, inset: 20pt)[
+    #grid(
+      columns: (1fr, 1fr),
+      rows: (auto, auto),
+      gutter: 18pt,
+      text(size: 24pt, weight: "bold", fill: red)[Republic as Oligarchy],
+      text(size: 24pt, weight: "bold", fill: green)[Constitutional Democracy],
+      [
+        #bullets((
+          [Voting ritual],
+          [Party command],
+          [Elite bargaining],
+          [Opaque decisions],
+          [Managed citizens],
+        ))
+        #v(10pt)
+        #text(size: 15pt, fill: muted)[power sits above citizens]
+      ],
+      [
+        #bullets((
+          [Citizen rule],
+          [Direct mandate],
+          [Recall],
+          [Public audit],
+          [Accountable institutions],
+        ))
+        #v(10pt)
+        #text(size: 15pt, fill: muted)[power returns to citizens]
+      ],
+    )
   ]
 ]
 
