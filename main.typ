@@ -480,7 +480,7 @@
       #v(0.22in)
       #ref-group([Contemporary Argument])[
         #ref[Kalenteridis, S. (2026). _This Is Greece's Only Way Out: A Democratic Party_. YouTube transcript.]
-        #ref[Theodoros, S. (2026, April 28). _Res publica instead of democracy proves to be oligarchy_. SLpress.gr.]
+        #ref[Stathis, T. (2026, April 28). _The res publica instead of democracy proves to be oligarchy_. SLpress.gr.]
       ]
     ],
   )

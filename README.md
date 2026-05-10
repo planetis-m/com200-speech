@@ -39,6 +39,6 @@ Reporters Without Borders. (2026). *Greece*. https://rsf.org/en/country/greece
 
 Rousseau, J.-J. (2002). *The social contract*. Yale University Press.
 
-Theodoros, S. (2026, April 28). *Η res publica αντί για δημοκρατία αποδεικνύεται ολιγαρχία* [The res publica instead of democracy proves to be oligarchy]. *SLpress.gr*. https://slpress.gr/idees/i-res-publica-anti-gia-dimokratia-apodeiknietai-oligarxia/
+Stathis, T. (2026, April 28). *Η res publica αντί για δημοκρατία αποδεικνύεται ολιγαρχία* [The res publica instead of democracy proves to be oligarchy]. *SLpress.gr*. https://slpress.gr/idees/i-res-publica-anti-gia-dimokratia-apodeiknietai-oligarxia/
 
 Transparency International. (2026). *Corruption Perceptions Index 2025*. https://www.transparency.org/en/cpi/2025
