@@ -111,12 +111,12 @@
 
 // Slide 1
 #slide[
-  The Republic Is Not Enough
+  Republic Disguised as Democracy
 ][
   #v(0.35in)
-  #text(size: 30pt, weight: "bold", fill: blue)[Oligarchy Behind Representation]
+  #text(size: 30pt, weight: "bold", fill: blue)[The Oligarchic Structure of Parliamentarism]
   #v(0.22in)
-  #text(size: 22pt)[A Democratic Party as an institutional exit]
+  #text(size: 22pt)[From electoral permission to citizen sovereignty]
   #v(0.55in)
   #img-fit("assets/parliament.jpg", height: 2.6in)
   #v(0.28in)
@@ -127,18 +127,18 @@
 
 // Slide 2
 #slide(source: "Freedom House, 2025")[
-  Scale of Democratic Crisis
+  The Core Deception
 ][
   #two-col[
     #bullets((
-      [Elections],
-      [Low institutional trust],
-      [Corruption concerns],
-      [Media pressure],
-      [Citizen distance],
+      [Elections without rule],
+      [Representation without mandate],
+      [Public interest defined from above],
+      [Citizens as spectators],
+      [Oligarchy with democratic branding],
     ))
   ][
-    #stat-card("85/100", "Freedom House score · Greece", color: blue)
+    #stat-card("1 vote", "Political equality is necessary, not sufficient", color: blue)
     #v(0.2in)
     #img-fit("assets/democracy-dashboard.png", height: 2.2in)
   ]
@@ -146,15 +146,15 @@
 
 // Slide 3
 #slide[
-  Argument 1 · Elections ≠ Democracy
+  Argument 1 · Elections Are Not Rule
 ][
   #two-col[
     #bullets((
       [Res publica],
-      [Public interest],
-      [Citizen sovereignty],
-      [Agenda-setting],
-      [Continuous control],
+      [Managed public interest],
+      [Officeholder interpretation],
+      [No citizen agenda-setting],
+      [No continuous sovereignty],
     ))
   ][
     #img-fit("assets/citizen-assembly.jpg", height: 2.9in)
@@ -167,15 +167,15 @@
 
 // Slide 4
 #slide[
-  Argument 2 · Representation Gap
+  Argument 2 · Parliamentarism Inverts Power
 ][
   #two-col[
     #bullets((
-      [Party gatekeeping],
-      [Candidate filtering],
-      [Party discipline],
-      [Executive dominance],
-      [Weak mandate],
+      [Parties select candidates],
+      [Voters ratify options],
+      [Representatives obey party line],
+      [Government dominates parliament],
+      [Citizens lose command],
     ))
   ][
     #rect(width: 100%, height: 3.5in, radius: 8pt, stroke: 1pt + border, fill: white, inset: 18pt)[
@@ -200,18 +200,18 @@
 
 // Slide 5
 #slide(source: "Transparency International, 2026")[
-  Argument 3 · Elite Capture
+  Argument 3 · Oligarchy Reproduces Itself
 ][
   #two-col[
     #bullets((
+      [Party machines],
       [Economic oligarchy],
-      [Media concentration],
-      [Corruption risk],
-      [Surveillance concern],
-      [Accountability gap],
+      [Media influence],
+      [State appointments],
+      [Weak accountability],
     ))
   ][
-    #stat-card("50/100", "Corruption Perceptions Index · Greece", color: red)
+    #stat-card("50/100", "Corruption perception score · Greece", color: red)
     #v(0.2in)
     #img-fit("assets/power-network.svg", height: 2.2in)
   ]
@@ -219,7 +219,7 @@
 
 // Slide 6
 #slide(source: "Reporters Without Borders, 2026")[
-  Supporting Data
+  Accountability Breakdown
 ][
   #two-col[
     #stat-card("86/180", "Press freedom rank · Greece", color: red)
@@ -227,11 +227,11 @@
     #stat-card("55.05", "Press freedom score", color: blue)
   ][
     #bullets((
-      [Systemic crisis],
+      [Institutional pressure],
       [Wiretapping concerns],
       [SLAPP pressure],
-      [Media independence],
-      [Public accountability],
+      [Information control],
+      [Accountability deficit],
     ))
     #v(0.2in)
     #rect(width: 100%, height: 1.35in, radius: 8pt, stroke: 1pt + border, fill: white, inset: 12pt)[
@@ -242,29 +242,29 @@
 
 // Slide 7
 #slide[
-  Satisfaction · Democratic Party
+  Satisfaction · Constitutional Makeover
 ][
   #two-col[
     #bullets((
-      [Open primaries],
-      [Citizen referenda],
-      [Legislative initiatives],
-      [Recall],
-      [Transparent financing],
-      [Anti-corruption oversight],
+      [Citizen-initiated referenda],
+      [Citizen legislative power],
+      [Recall of officials],
+      [Independent justice],
+      [Transparent public finance],
+      [Anti-corruption prosecution],
     ))
   ][
     #rect(width: 100%, height: 3.4in, radius: 8pt, stroke: 1pt + border, fill: white, inset: 18pt)[
       #align(center + horizon)[
-        #text(size: 22pt, weight: "bold", fill: navy)[Citizens]
+        #text(size: 22pt, weight: "bold", fill: navy)[Citizen Body]
         #v(8pt)
         #text(size: 28pt, fill: gold)[↔]
         #v(8pt)
-        #text(size: 22pt, weight: "bold", fill: blue)[Policy]
+        #text(size: 22pt, weight: "bold", fill: blue)[Constitution]
         #v(8pt)
         #text(size: 28pt, fill: gold)[↔]
         #v(8pt)
-        #text(size: 22pt, weight: "bold", fill: green)[Representatives]
+        #text(size: 22pt, weight: "bold", fill: green)[Institutions]
       ]
     ]
   ]
@@ -274,47 +274,47 @@
 
 // Slide 8
 #slide[
-  Visualization · Two Futures
+  Visualization · Two Political Orders
 ][
   #two-col[
-    #text(size: 24pt, weight: "bold", fill: red)[Passive Future]
+    #text(size: 24pt, weight: "bold", fill: red)[Republic as Oligarchy]
     #v(0.18in)
     #bullets((
-      [Apathy],
-      [Distrust],
-      [Capture],
-      [Weak media],
-      [Managed citizenship],
+      [Voting ritual],
+      [Party command],
+      [Elite bargaining],
+      [Opaque decisions],
+      [Managed citizens],
     ))
   ][
-    #text(size: 24pt, weight: "bold", fill: green)[Democratic Future]
+    #text(size: 24pt, weight: "bold", fill: green)[Constitutional Democracy]
     #v(0.18in)
     #bullets((
-      [Participation],
-      [Transparency],
+      [Citizen rule],
+      [Direct mandate],
       [Recall],
-      [Public mandate],
-      [Political renewal],
+      [Public audit],
+      [Accountable institutions],
     ))
   ]
 ]
 
 // Slide 9
 #slide[
-  Action · Audience Role
+  Action · Demand Citizen Sovereignty
 ][
   #two-col[
     #bullets((
-      [Join civic forums],
-      [Demand internal democracy],
-      [Support recall / referenda],
-      [Track transparency],
-      [Vote + organize],
+      [Reject electoral minimalism],
+      [Demand constitutional reform],
+      [Support citizen referenda],
+      [Support recall powers],
+      [Organize beyond parties],
     ))
   ][
     #img-fit("assets/civic-checklist.jpg", height: 3.2in)
     #v(0.18in)
-    #text(size: 20pt, weight: "bold", fill: navy)[Voting is the beginning, not the end.]
+    #text(size: 20pt, weight: "bold", fill: navy)[Citizens must become an institution.]
   ]
 ]
 
@@ -327,7 +327,7 @@
     [Aristotle. (1998). _Politics_. Hackett Publishing.],
     [Dahl, R. A. (1971). _Polyarchy_. Yale University Press.],
     [Freedom House. (2025). _Greece: Freedom in the World 2025_.],
-    [Kalenteridis, S. (2026). _This Is Greece's Only Way Out: A Democratic Party_. YouTube.],
+    [Kalenteridis, S. (2026). _This Is Greece's Only Way Out: A Democratic Party_. YouTube transcript.],
     [Reporters Without Borders. (2026). _Greece_.],
     [Rousseau, J.-J. (2002). _The social contract_. Yale University Press.],
     [Stathis, T. (2026). _Res publica instead of democracy proves to be oligarchy_. SLpress.],
