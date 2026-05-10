@@ -350,7 +350,8 @@ That makes the action demand sharper: stop asking only to be represented.
 ## Slide 9 - Action: Stop Asking to Be Represented
 
 **Core message:**  
-Do not settle for voting and disappearance.
+Do not settle for being represented  
+without holding power.
 
 **Delivery rhythm:**  
 Direct.  
@@ -358,17 +359,23 @@ Use eye contact.
 This is the call.
 
 **Talking path:**  
-We have to stop treating representation as the highest form of political life.
+We have to stop treating representation  
+as the highest form of political life.
 
-Name oligarchy when power leaves citizens.
+Name the system:
 
-Demand citizen-initiated referenda.
+oligarchic republic.
 
-Demand legislative initiative from below.
+Demand binding referenda.
 
-Make officials recallable.
+Demand popular lawmaking.
 
-Put corruption, party finance, public contracts, and political appointments under public audit.
+Demand recallable officials.
+
+Demand public audit.
+
+Corruption, party finance, public contracts, and political appointments  
+must be visible to the people.
 
 Ask every party, every candidate, every movement one question:
 
@@ -378,12 +385,19 @@ If they cannot answer that, they are not offering democracy.
 
 They are asking for permission to rule.
 
+That is the line:
+
+representation is not democracy.
+
+Power to the people is.
+
 **Visual anchors:**  
 Checklist image  
-Bullets: name oligarchy, referenda, initiative, recall, audit
+Bullets: oligarchic republic, referenda, lawmaking, recall, audit
 
 **Emphasis moment:**  
-Democracy begins when citizens rule after election day.
+Representation is not **democracy**.  
+Power to the people is.
 
 **Transition:**  
 The sources are academic and contemporary. The responsibility is civic.

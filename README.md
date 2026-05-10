@@ -1,24 +1,28 @@
-# COMM200 Persuasive Speech Presentation
+# COMM200 Persuasive Speech Deck
 
-This repository contains the Typst source, exported PDF, visual assets, and speaker notes for a COMM200 persuasive speech on the claim that a republic presented as democracy can function oligarchically when citizens lack direct institutional power.
+Typst slide deck and speaker notes for a 10-minute persuasive speech arguing that a republic presented as democracy becomes oligarchy when representation replaces citizen power.
+
+## Core Thesis
+
+**Representation is not democracy. Power to the people is.**
+
+The presentation follows Monroe's Motivated Sequence and builds toward a constitutional reform argument: binding referenda, popular lawmaking, recallable officials, public audit, independent justice, and anti-corruption enforcement.
 
 ## Files
 
-- `main.typ` - Typst slide deck source.
-- `res-publica-democracy.pdf` - compiled presentation PDF.
-- `speaker_notes.md` - delivery notes aligned slide by slide.
-- `assets/` - images used by the deck.
+- `main.typ` - editable Typst presentation source
+- `res-publica-democracy.pdf` - compiled slide deck
+- `speaker_notes.md` - slide-by-slide live delivery notes
+- `assets/` - presentation images
 
-## Build
+## Compile
 
-Compile the presentation with:
+From this directory:
 
 ```bash
 typst compile main.typ res-publica-democracy.pdf
 ```
 
-Run the command from this directory.
-
 ## Sources
 
-The deck cites democratic theory, institutional evidence, and the provided Greek source material, including the YouTube transcript and SLpress article from the parent project directory.
+The deck cites democratic theory, institutional evidence, and the provided Greek source material, including the YouTube transcript and SLpress article.

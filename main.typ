@@ -423,14 +423,14 @@
   [Stop Asking to Be Represented],
   [
     #list((
-      [Name oligarchy when power leaves citizens.],
-      [Demand citizen-initiated referenda.],
-      [Demand legislative initiative from below.],
-      [Make officials recallable.],
-      [Put corruption under public audit.],
+      [Name it: oligarchic republic.],
+      [Demand binding referenda.],
+      [Demand popular lawmaking.],
+      [Demand recallable officials.],
+      [Demand public audit.],
     ), accent: green)
     #v(0.42in)
-    #lead([Democracy begins when citizens rule after election day.], size: 24pt)
+    #lead([Representation is not democracy. Power to the people is.], size: 24pt)
   ],
   [
     #photo("assets/civic-checklist.jpg", height: 5.62in)
