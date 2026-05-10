@@ -377,7 +377,7 @@
 #section(
   [Satisfaction],
   [Return Power to the Citizen Body],
-  sub: [Referendum. Initiative. Recall. Audit. Justice. The people must become an institution.],
+  sub: [Referendum. Initiative. Recall. Audit. Justice. The people must hold constitutional authority.],
   accent: green,
   dark: false,
 )
