@@ -307,9 +307,29 @@
     ), accent: red)
   ],
   [
-    #v(0.18in)
-    #stat-block([50/100], [Corruption perception score / Greece], accent: red)
-    #v(0.56in)
+    #v(0.02in)
+    #text(size: 21pt, weight: "bold", fill: red)[Scored cleaner than Greece]
+    #v(0.06in)
+    #hair(width: 0.72in, color: red)
+    #v(0.25in)
+    #grid(
+      columns: (1fr, 0.72in),
+      gutter: 0.18in,
+      row-gutter: 0.15in,
+      text(size: 25pt, weight: "bold", fill: ink)[Rwanda],
+      text(size: 25pt, weight: "bold", fill: red)[58],
+      text(size: 25pt, weight: "bold", fill: ink)[Qatar],
+      text(size: 25pt, weight: "bold", fill: red)[58],
+      text(size: 25pt, weight: "bold", fill: ink)[Saudi Arabia],
+      text(size: 25pt, weight: "bold", fill: red)[57],
+      text(size: 25pt, weight: "bold", fill: ink)[Oman],
+      text(size: 25pt, weight: "bold", fill: red)[52],
+      text(size: 25pt, weight: "bold", fill: ink)[Malaysia],
+      text(size: 25pt, weight: "bold", fill: red)[52],
+      text(size: 25pt, weight: "bold", fill: ink)[Greece],
+      text(size: 25pt, weight: "bold", fill: red)[50],
+    )
+    #v(0.34in)
     #rect(width: 100%, height: 1pt, fill: line-soft)
     #v(0.36in)
     #copy([Access becomes the hidden constitution: who enters, who is heard, who is protected, and who is abandoned.], size: 21pt)

@@ -163,7 +163,7 @@ Oligarchy reproduces itself through access, money, visibility, and appointment.
 
 **Delivery rhythm:**  
 Firm.  
-Do not sound speculative. Keep it structural.
+Use the comparison as evidence, then drive it back to capture and access. Keep it structural.
 
 **Talking path:**  
 Oligarchy does not need to hide in a basement.
@@ -180,7 +180,30 @@ The citizen remains formally sovereign, but practically distant.
 That is why corruption is not only a moral scandal.  
 It is a constitutional symptom.
 
-When the public authority is captured by organized interests, access becomes the real constitution.
+Do not just say fifty out of one hundred.
+
+Say what sits above Greece.
+
+Rwanda scores fifty-eight.  
+Qatar scores fifty-eight.  
+Saudi Arabia scores fifty-seven.  
+Oman scores fifty-two.  
+Malaysia scores fifty-two.
+
+Greece scores fifty.
+
+That comparison should disturb us.
+
+Do not hide inside technical language.
+
+This is the point: an EU democracy, birthplace of the democratic idea, sits below states many Greeks would never accept as civic models.
+
+That is an indictment of institutions.
+
+The point is not that every official is corrupt.  
+The point is that public power is still vulnerable to capture, pressure, and private advantage.
+
+When public authority is captured by organized interests, access becomes the real constitution.
 
 Who enters.  
 Who is heard.  
@@ -188,7 +211,7 @@ Who is protected.
 Who is abandoned.
 
 **Visual anchors:**  
-50/100 corruption score  
+Scored cleaner than Greece  
 Bullets: parties, money, media, appointments
 
 **Emphasis moment:**  
