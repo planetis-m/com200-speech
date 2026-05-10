@@ -136,12 +136,12 @@
 
 // Slide 1
 #slide[
-  Republic Disguised as Democracy
+  Republic Is Not Democracy
 ][
   #v(0.35in)
-  #text(size: 30pt, weight: "bold", fill: blue)[The Oligarchic Structure of Parliamentarism]
+  #text(size: 30pt, weight: "bold", fill: blue)[Representation Without Participation Is Oligarchy]
   #v(0.22in)
-  #text(size: 22pt)[From electoral permission to citizen sovereignty]
+  #text(size: 22pt)[Return political power to the people]
   #v(0.55in)
   #img-fit("assets/parliament.jpg", height: 2.6in)
   #v(0.28in)
@@ -156,11 +156,11 @@
 ][
   #two-col[
     #bullets((
-      [Elections without rule],
-      [Representation without mandate],
-      [Public interest defined from above],
-      [Citizens as spectators],
-      [Oligarchy with democratic branding],
+      [Voting is not ruling],
+      [Representation is not participation],
+      [Public interest is defined from above],
+      [The people become spectators],
+      [Republic is branded as democracy],
     ))
   ][
     #stat-card("1 vote", "Political equality is necessary, not sufficient", color: blue)
@@ -191,10 +191,11 @@
   #two-col[
     #bullets((
       [Res publica],
-      [Managed public interest],
-      [Officeholder interpretation],
-      [No citizen agenda-setting],
-      [No continuous sovereignty],
+      [Public interest controlled by officeholders],
+      [Elections choose rulers],
+      [Citizens do not set the agenda],
+      [No direct legislative power],
+      [No continuous popular sovereignty],
     ))
   ][
     #img-fit("assets/citizen-assembly.jpg", height: 2.75in)
@@ -207,7 +208,7 @@
 
 // Slide 4
 #slide[
-  Argument 2 · Parliamentarism Inverts Power
+  Argument 2 · Representation Replaces Participation
 ][
   #two-col[
     #bullets((
@@ -215,11 +216,11 @@
       [Voters ratify options],
       [Representatives obey party line],
       [Government dominates parliament],
-      [Citizens lose command],
+      [The people lose command],
     ))
   ][
     #align(center)[
-      #simple-box("Citizens", subtitle: "formal source", accent: green)
+      #simple-box("The People", subtitle: "source of legitimacy", accent: green)
       #v(8pt)
       #text(size: 24pt, fill: gold)[↓]
       #v(8pt)
@@ -229,7 +230,7 @@
       #v(8pt)
       #simple-box("Parliament", subtitle: "party discipline", accent: red)
       #v(10pt)
-      #text(size: 15pt, fill: muted)[Policy descends after citizens ratify options]
+      #text(size: 15pt, fill: muted)[policy descends after voters ratify options]
     ]
   ]
 ]
@@ -287,7 +288,7 @@
   #two-col[
     #bullets((
       [Citizen-initiated referenda],
-      [Citizen legislative power],
+      [Popular legislative initiative],
       [Recall of officials],
       [Independent justice],
       [Transparent public finance],
@@ -295,9 +296,9 @@
     ))
   ][
     #rect(width: 100%, height: 3.4in, radius: 8pt, stroke: 1pt + border, fill: white, inset: 20pt)[
-      #text(size: 26pt, weight: "bold", fill: green)[Citizen Body]
+      #text(size: 26pt, weight: "bold", fill: green)[Power to the People]
       #v(12pt)
-      #text(size: 20pt, fill: muted)[must become a constitutional institution]
+      #text(size: 20pt, fill: muted)[not symbolic consent · real constitutional authority]
       #v(28pt)
       #line(length: 100%, stroke: 1pt + gold)
       #v(28pt)
@@ -325,7 +326,7 @@
           [Party command],
           [Elite bargaining],
           [Opaque decisions],
-          [Managed citizens],
+          [Managed people],
         ))
         #v(10pt)
         #text(size: 15pt, fill: muted)[power sits above citizens]
@@ -347,20 +348,20 @@
 
 // Slide 9
 #slide[
-  Action · Demand Citizen Sovereignty
+  Action · Power to the People
 ][
   #two-col[
     #bullets((
-      [Reject electoral minimalism],
+      [Reject voting-only democracy],
       [Demand constitutional reform],
-      [Support citizen referenda],
-      [Support recall powers],
-      [Organize beyond parties],
+      [Demand popular referenda],
+      [Demand recall powers],
+      [Demand legislative initiative],
     ))
   ][
     #img-fit("assets/civic-checklist.jpg", height: 3.2in)
     #v(0.18in)
-    #text(size: 20pt, weight: "bold", fill: navy)[Citizens must become an institution.]
+    #text(size: 20pt, weight: "bold", fill: navy)[Representation is not participation.]
   ]
 ]
 

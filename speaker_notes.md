@@ -27,8 +27,8 @@ That is not citizen sovereignty.
 That is managed representation.
 
 **Visual anchors:**  
-Title: Republic Disguised as Democracy  
-Subtitle: Oligarchic Structure of Parliamentarism  
+Title: Republic Is Not Democracy  
+Subtitle: Representation Without Participation Is Oligarchy  
 Image: parliament
 
 **Emphasis moment:**  
@@ -58,11 +58,11 @@ But that principle is not enough by itself.
 
 If citizens only choose rulers,  
 and never control lawmaking,  
-then the system has democratic branding  
+then the republic has democratic language  
 without democratic command.
 
 Public interest becomes whatever officeholders say it is.  
-Citizens become spectators.
+The people become spectators.
 
 That is the core deception.
 
@@ -70,7 +70,7 @@ That is the core deception.
 Stat card: 1 vote  
 Panel: Democratic appearance  
 Panel: Oligarchic command  
-Phrase: oligarchy with democratic branding
+Phrase: republic is branded as democracy
 
 **Emphasis moment:**  
 A vote can authorize power without giving citizens **command**.
@@ -110,7 +110,7 @@ The people appear on election day.
 Then they disappear from power.
 
 **Visual anchors:**  
-Bullets: managed public interest, officeholder interpretation  
+Bullets: public interest controlled by officeholders  
 Image: citizen assembly  
 Names: Aristotle, Rousseau, Dahl
 
@@ -122,7 +122,7 @@ Once permission replaces rule, parliamentarism inverts the direction of power.
 
 ---
 
-## Slide 4 — Argument 2: Parliamentarism Inverts Power
+## Slide 4 — Argument 2: Representation Replaces Participation
 
 **Core message:**  
 The system does not transmit citizen will upward.  
@@ -151,8 +151,8 @@ But representation without command is not rule.
 It is delegation without control.
 
 **Visual anchors:**  
-Simple flow: Citizens ↓ Parties ↓ Parliament  
-Bullets: voters ratify options, party line, citizens lose command
+Simple flow: The People ↓ Parties ↓ Parliament  
+Bullets: voters ratify options, party line, people lose command
 
 **Emphasis moment:**  
 The direction of power is **reversed**.
@@ -182,8 +182,8 @@ Economic power controls influence.
 Media visibility controls attention.  
 State appointments control enforcement.
 
-The ordinary citizen remains formally sovereign.  
-But practically distant.
+The people remain formally sovereign.  
+But practically distant from command.
 
 Corruption is not just private misconduct.  
 It is the operating cost of a system  
@@ -223,7 +223,7 @@ It is how officials become afraid of exposure.
 When media faces pressure,  
 when surveillance scandals chill trust,  
 when lawsuits silence criticism,  
-the citizen body loses sight.
+the people lose sight.
 
 And a people that cannot see power  
 cannot control power.
@@ -253,16 +253,15 @@ Concrete.
 Give each reform a beat.
 
 **Talking path:**  
-The citizen body must become an institution.
+Power has to return to the people.
 
-Not a crowd.  
-Not an audience.  
-Not a voting reservoir.
+Not symbolically.  
+Not only on election day.
 
-An institution.
+Constitutionally.
 
 Citizen-initiated referenda.  
-Citizen legislative power.  
+Popular legislative initiative.  
 Recall of officials.  
 Independent justice.  
 Transparent public finance.  
@@ -270,16 +269,16 @@ Anti-corruption prosecution.
 
 This is the constitutional makeover.
 
-Power must move from representatives back to citizens.
+Power must move from representatives back to the people.
 
 **Visual anchors:**  
 Title: Constitutional Makeover  
-Panel: Citizen Body  
+Panel: Power to the People  
 Tool line: referendum, initiative, recall, audit, justice  
 Bullets: referenda, legislative power, recall
 
 **Emphasis moment:**  
-Citizens must become an **institution**.
+Power must return to the **people**.
 
 **Transition:**  
 Now compare the two orders side by side.
@@ -305,7 +304,7 @@ Voting ritual.
 Party command.  
 Elite bargaining.  
 Opaque decisions.  
-Managed citizens.
+Managed people.
 
 On the right: constitutional democracy.
 
@@ -332,10 +331,10 @@ That makes the audience role sharper: do not ask for better managers; demand sov
 
 ---
 
-## Slide 9 — Action: Demand Citizen Sovereignty
+## Slide 9 — Action: Power to the People
 
 **Core message:**  
-Do not settle for electoral **minimalism**.
+Do not settle for voting-only **democracy**.
 
 **Delivery rhythm:**  
 Direct.  
@@ -347,9 +346,9 @@ Use eye contact.
 Reject the idea that democracy means voting and going home.
 
 Demand constitutional reform.  
-Support citizen referenda.  
+Demand popular referenda.  
 Support recall powers.  
-Support citizen legislative authority.
+Demand legislative initiative.
 
 Organize beyond parties.  
 Pressure parties from outside.  
@@ -363,7 +362,7 @@ after election day?
 **Visual anchors:**  
 Image: civic checklist  
 Bullets: constitutional reform, referenda, recall  
-Bottom line: citizens must become an institution
+Bottom line: representation is not participation
 
 **Emphasis moment:**  
 The minimum is not **enough**.
