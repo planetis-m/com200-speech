@@ -60,7 +60,7 @@ or audit power after election day,
 
 then they are not ruling.
 
-They are authorizing rulers.
+They are authorizing elected rulers.
 
 That is the deception:  
 the republic borrows legitimacy from the people,  
@@ -82,7 +82,7 @@ So the first argument is direct: voting is not rule.
 ## Slide 3 - Argument 1: Voting Is Not Rule
 
 **Core message:**  
-Elections choose officeholders.  
+Elections choose rulers.  
 Democracy requires citizen **command**.
 
 **Delivery rhythm:**  
@@ -95,7 +95,7 @@ Res publica claims the public interest.
 But who defines that interest?
 
 The people?  
-Or the officeholder?
+Or the elected ruler?
 
 If the people cannot initiate the law,  
 stop the law,  
@@ -107,11 +107,11 @@ sovereignty becomes theatrical.
 The citizen appears on election day.  
 Then disappears from power.
 
-Democracy is not rule by elected managers.  
-Democracy is rule by citizens.
+Democracy is not the selection of elected rulers.  
+Democracy is the rule of citizens.
 
 **Visual anchors:**  
-Bullets: public interest, officeholders, vanish from power  
+Bullets: public interest, elected rulers, vanish from power  
 Image: citizen assembly  
 Theory line: Aristotle / Rousseau / Dahl
 
@@ -141,6 +141,9 @@ Parties filter candidates.
 Party leaders filter programs.  
 Media visibility filters attention.  
 Parliament turns filtered choices into law.
+
+Representatives become party delegates,  
+not delegates of the people.
 
 The citizen arrives late.
 
@@ -176,6 +179,10 @@ No conspiracy tone.
 Oligarchy does not need to hide.
 
 It can operate in daylight.
+
+Oligarchs do not need to sit in parliament themselves.
+
+They can place influence in front of them:
 
 Party machines decide who enters.  
 Economic power shapes influence.  
@@ -276,7 +283,7 @@ Anti-corruption enforcement.
 This is not better representation.
 
 This is power returning  
-from political managers  
+from elected rulers and party delegates  
 to the citizen body.
 
 **Visual anchors:**  
@@ -305,7 +312,7 @@ Look left, then right.
 On the left: republic as oligarchy.
 
 Voting without command.  
-Party rule.  
+Party delegates.  
 Elite networks.  
 Hidden bargains.  
 Citizens without power.
@@ -368,7 +375,8 @@ after you win?
 If they cannot answer,  
 they are not offering democracy.
 
-They are asking for permission to rule.
+They are asking to become elected rulers  
+inside an oligarchic structure.
 
 **Visual anchors:**  
 Title: Stop Asking to Be Represented  

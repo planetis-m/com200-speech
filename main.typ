@@ -397,7 +397,7 @@
     [
       #compare([Republic as Oligarchy], (
         [Voting without command],
-        [Party rule],
+        [Party delegates],
         [Elite networks],
         [Hidden bargains],
         [Citizens without power],
