@@ -1,5 +1,5 @@
 // COMM200 Persuasive Speech Presentation
-// Topic: The republic presented as democracy proves to be oligarchy
+// Topic: The republic sold as democracy proves to be oligarchy
 // Compile with: typst compile presentation/main.typ presentation/res-publica-democracy.pdf
 
 #set page(
@@ -212,9 +212,9 @@
   #v(0.18in)
   #display([Republic Is Not Democracy], dark: true, size: 58pt, serif: true)
   #v(0.22in)
-  #lead([Representation without participation is oligarchy.], dark: true, size: 27pt)
+  #lead([Voting without citizen power is oligarchy.], dark: true, size: 27pt)
   #v(0.54in)
-  #small([A system can look democratic while moving power away from citizens.], dark: true)
+  #small([A system can keep the democratic costume while stripping citizens of command.], dark: true)
 ]
 
 #sep
@@ -222,8 +222,8 @@
 // Slide 2
 #section(
   [The Core Deception],
-  [One vote is not the same as power.],
-  sub: [Elections can authorize rulers without giving citizens command over law, agenda, or accountability.],
+  [A ballot is not sovereignty.],
+  sub: [Elections can crown decision-makers while citizens lose command over law, agenda, and accountability.],
   source: [Freedom House, 2025],
 )
 
@@ -232,13 +232,13 @@
 // Slide 3
 #editorial-split(
   [Argument 1],
-  [Elections Are Not Rule],
+  [Voting Is Not Rule],
   [
     #list((
-      [Res publica names a public interest.],
-      [Officeholders define that interest from above.],
-      [Citizens choose rulers, then disappear from command.],
-      [No agenda power means no continuous sovereignty.],
+      [Res publica claims the public interest.],
+      [Officeholders decide what that interest means.],
+      [Citizens choose rulers, then vanish from power.],
+      [No agenda power means no sovereignty.],
     ))
     #v(0.48in)
     #small([Aristotle / Rousseau / Dahl])
@@ -259,32 +259,32 @@
     [
       #kicker([Argument 2], dark: true, color: red)
       #v(0.16in)
-      #display([Representation Replaces Participation], dark: true, size: 43pt, serif: true)
+      #display([Representation Replaces the Citizen], dark: true, size: 43pt, serif: true)
       #v(0.08in)
       #hair(width: 0.94in, color: red.lighten(12%))
       #v(0.32in)
-      #lead([The direction of power is reversed.], dark: true, size: 24pt)
+      #lead([First we vote. Then power leaves us.], dark: true, size: 24pt)
     ],
     [
       #v(0.56in)
       #block(width: 100%)[
-        #text(size: 15pt, fill: white.transparentize(34%))[SOURCE OF LEGITIMACY]
+        #text(size: 15pt, fill: white.transparentize(34%))[CLAIMED SOURCE]
         #v(0.18in)
         #text(size: 31pt, weight: "bold", fill: white)[Citizens]
         #v(0.44in)
         #rect(width: 100%, height: 1pt, fill: white.transparentize(78%))
         #v(0.44in)
-        #text(size: 15pt, fill: red.lighten(22%))[FILTER OF CHOICE]
+        #text(size: 15pt, fill: red.lighten(22%))[FILTER OF POWER]
         #v(0.18in)
         #text(size: 31pt, weight: "bold", fill: red.lighten(16%))[Parties]
         #v(0.44in)
         #rect(width: 100%, height: 1pt, fill: white.transparentize(78%))
         #v(0.44in)
-        #text(size: 15pt, fill: red.lighten(22%))[SITE OF DECISION]
+        #text(size: 15pt, fill: red.lighten(22%))[REAL COMMAND]
         #v(0.18in)
         #text(size: 31pt, weight: "bold", fill: red.lighten(16%))[Parliament]
         #v(0.3in)
-        #copy([Law appears after the options have already been managed.], dark: true, size: 17.5pt)
+        #copy([Policy is drawn after the people have already been reduced to approval.], dark: true, size: 17.5pt)
       ]
     ],
   )
@@ -295,15 +295,15 @@
 // Slide 5
 #editorial-split(
   [Argument 3],
-  [Oligarchy Reproduces Itself],
+  [Rule by Networks, Not Citizens],
   [
-    #lead([Oligarchy does not need secrecy. It needs access.], size: 24pt)
+    #lead([Oligarchy does not need a mask forever. It needs access, money, and gatekeepers.], size: 24pt)
     #v(0.38in)
     #list((
-      [Party machines control entry.],
-      [Economic power controls influence.],
-      [Media visibility controls attention.],
-      [Appointments control enforcement.],
+      [Party machines decide who enters.],
+      [Economic power buys influence.],
+      [Media visibility manufactures attention.],
+      [Appointments protect the system.],
     ), accent: red)
   ],
   [
@@ -312,7 +312,7 @@
     #v(0.56in)
     #rect(width: 100%, height: 1pt, fill: line-soft)
     #v(0.36in)
-    #copy([Access becomes the real constitution: who enters, who is heard, who is protected, and who is ignored.], size: 21pt)
+    #copy([Access becomes the hidden constitution: who enters, who is heard, who is protected, and who is abandoned.], size: 21pt)
   ],
   source: [Transparency International, 2026],
   accent: red,
@@ -327,13 +327,13 @@
     gutter: 0.78in,
     align: horizon,
     [
-      #kicker([Institutional Crisis], dark: true, color: red)
+      #kicker([Legitimacy Crisis], dark: true, color: red)
       #v(0.16in)
-      #display([Accountability Breaks When Information Is Pressured], dark: true, size: 41pt, serif: true)
+      #display([Citizens Cannot Rule in the Dark], dark: true, size: 43pt, serif: true)
       #v(0.08in)
       #hair(width: 0.94in, color: red.lighten(14%))
       #v(0.3in)
-      #lead([Without independent information, citizens cannot judge power.], dark: true, size: 23.5pt)
+      #lead([When surveillance, pressure, and silence expand, sovereignty becomes theater.], dark: true, size: 23.5pt)
     ],
     [
       #v(0.64in)
@@ -342,10 +342,10 @@
       #rect(width: 100%, height: 1pt, fill: white.transparentize(78%))
       #v(0.36in)
       #list((
-        [Institutional pressure],
-        [Wiretapping concerns],
-        [SLAPP pressure],
-        [Information control],
+        [Press pressure],
+        [Wiretapping scandal],
+        [SLAPP intimidation],
+        [Managed visibility],
       ), accent: red.lighten(16%), dark: true, gap: 0.14in)
     ],
   )
@@ -356,8 +356,8 @@
 // Slide 7
 #section(
   [Satisfaction],
-  [Democracy Requires Constitutional Tools, Not Just Democratic Language.],
-  sub: [Referendum. Initiative. Recall. Audit. Independent justice.],
+  [Return Power to the Citizen Body],
+  sub: [Referendum. Initiative. Recall. Audit. Justice. The people must become an institution.],
   accent: green,
   dark: false,
 )
@@ -369,27 +369,27 @@
   #v(0.26in)
   #kicker([Two Political Orders], color: amber)
   #v(0.16in)
-  #display([The Choice Is Structural], size: 43pt, serif: true)
+  #display([Oligarchy or Democracy], size: 43pt, serif: true)
   #v(0.42in)
   #grid(
     columns: (1fr, 1fr),
     gutter: 0.9in,
     [
       #compare([Republic as Oligarchy], (
-        [Voting ritual],
-        [Party command],
-        [Elite bargaining],
-        [Opaque decisions],
-        [Managed people],
+        [Voting without command],
+        [Party rule],
+        [Elite networks],
+        [Hidden bargains],
+        [Citizens without power],
       ), red)
     ],
     [
-      #compare([Constitutional Democracy], (
-        [Citizen rule],
-        [Direct mandate],
-        [Recall],
+      #compare([Democracy of Citizens], (
+        [The citizen body rules],
+        [Policy before persons],
+        [Recall of officials],
         [Public audit],
-        [Accountable institutions],
+        [Justice under citizen control],
       ), green)
     ],
   )
@@ -400,17 +400,17 @@
 // Slide 9
 #editorial-split(
   [Action],
-  [Power to the People],
+  [Stop Asking to Be Represented],
   [
     #list((
-      [Reject voting-only democracy.],
-      [Demand constitutional reform.],
-      [Demand popular referenda.],
-      [Demand recall powers.],
-      [Demand legislative initiative.],
+      [Name oligarchy when power leaves citizens.],
+      [Demand citizen-initiated referenda.],
+      [Demand legislative initiative from below.],
+      [Make officials recallable.],
+      [Put corruption under public audit.],
     ), accent: green)
     #v(0.42in)
-    #lead([Representation is not participation.], size: 24pt)
+    #lead([Democracy begins when citizens rule after election day.], size: 24pt)
   ],
   [
     #photo("assets/civic-checklist.jpg", height: 5.62in)
@@ -434,7 +434,7 @@
       #v(0.04in)
       #hair(width: 0.86in)
       #v(0.32in)
-      #copy([Works cited for the speech's historical, theoretical, and institutional claims.], size: 18.4pt)
+      #copy([Works cited for the speech's historical, theoretical, and political claims.], size: 18.4pt)
     ],
     [
       #v(0.82in)
