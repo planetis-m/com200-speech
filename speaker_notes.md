@@ -281,7 +281,7 @@ Binding referenda.
 Popular legislative initiative.
 Recall of officials.
 Public audit.
-Justice.
+Independent Justice.
 
 This is not better representation.
 
@@ -330,7 +330,7 @@ Justice under citizen control.
 
 The real question is simple:
 
-Where does **power** sit?
+Who holds **power**?
 
 **Visual anchors:**
 Left: Republic as Oligarchy
