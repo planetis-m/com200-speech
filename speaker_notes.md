@@ -193,8 +193,8 @@ The right panel shows the consequence.
 Rwanda, Qatar, Saudi Arabia — regimes nobody calls democracies —
 all score **cleaner** than Greece on the index.
 
-If the political class scores cleaner
-than authoritarian states,
+If authoritarian states score cleaner
+than the political class,
 the label "democracy" does the work,
 not the institutions.
 
