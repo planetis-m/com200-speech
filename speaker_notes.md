@@ -11,24 +11,24 @@ Start cold.
 Let the title land.
 
 **Talking path:**
-The system calls itself democracy.
 
-But the people do not rule.
+The system calls itself **democracy**.
+But the people do **not** rule.
 
 They vote.
 They wait.
 They watch decisions made above them.
 
 Then they are invited back
-to approve another filtered choice.
+to approve another **filtered** choice.
 
 That is not sovereignty.
-That is representation without command.
+That is representation without **command**.
 
 **Visual anchors:**
-Title: Republic Is Not Democracy
-Line: Voting without citizen power is oligarchy
-Image: parliament
+Republic Is Not Democracy
+Voting without citizen power is oligarchy
+parliament.jpg
 
 **Emphasis moment:**
 The name says democracy.
@@ -49,9 +49,9 @@ Controlled.
 Pause after the title.
 
 **Talking path:**
-One citizen, one vote matters.
 
-But voting is not ruling.
+One citizen, one vote **matters**.
+But voting is not **ruling**.
 
 If citizens cannot set the agenda,
 initiate laws,
@@ -64,22 +64,22 @@ They are authorizing representatives who govern.
 
 That is the deception:
 the republic borrows legitimacy from the people,
-then removes the people from command.
+then **removes** the people from command.
 
 **Visual anchors:**
-Title: A ballot is not sovereignty
-Subtitle: law, agenda, accountability
+A ballot is not sovereignty
+law, agenda, accountability
 
 **Emphasis moment:**
 A vote can legitimize power
 without giving citizens **power**.
 
 **Transition:**
-So the first argument is direct: voting is not rule.
+Voting is not rule. First argument.
 
 ---
 
-## Slide 3 - Argument 1: Voting Is Not Rule
+## Slide 3 — Argument 1: Voting Is Not Rule
 
 **Core message:**
 Elections choose a governing class.
@@ -90,36 +90,43 @@ Analytical.
 Use the questions as pressure.
 
 **Talking path:**
-Res publica claims the public interest.
 
-But who defines that interest?
+Aristotle.
+*Res publica* claims the public interest.
+But **who** defines it.
 
 The people?
 Or the party hierarchy?
 
+Rousseau.
+
 If the people cannot initiate the law,
 stop the law,
 recall officials,
-or force accountability,
+or force accountability —
 
-sovereignty becomes theatrical.
+sovereignty becomes **theatrical**.
 
 The citizen appears on election day.
-Then disappears from power.
+Then **vanishes** from power.
 
-Democracy is not the selection of the political class.
-Democracy is the rule of citizens.
+Dahl.
+
+Democracy is not the selection of a class.
+Democracy is **agenda** power.
+Without it, the form is electoral.
+The substance is elite rule.
 
 **Visual anchors:**
 Bullets: public interest, political class, vanish from power
+Footer line: Aristotle / Rousseau / Dahl
 Image: citizen assembly
-Theory line: Aristotle / Rousseau / Dahl
 
 **Emphasis moment:**
 No agenda power means no **sovereignty**.
 
 **Transition:**
-When voting replaces rule, representation starts replacing citizens.
+When voting replaces rule, representation starts replacing **citizens**.
 
 ---
 
@@ -133,36 +140,35 @@ Sharper.
 Trace the chain visually.
 
 **Talking path:**
-We are told power begins with citizens.
 
+We are told power **begins** with citizens.
 But the machine moves differently.
 
 Parties filter candidates.
 Party leaders filter programs.
-Media visibility filters attention.
-Parliament turns filtered choices into law.
+Media filters attention.
+Parliament turns filtered choices into **law**.
 
 Representatives become party delegates,
 not delegates of the people.
 
 The citizen arrives late.
-
-The citizen approves a menu
+The citizen approves a **menu**
 already prepared by others.
 
-That is representation replacing participation.
+That is representation replacing **participation**.
 
 **Visual anchors:**
-Title: Representation Replaces the Citizen
-Line: First we vote. Then power leaves us.
-Right-side chain: voters, parties, parliament
+Representation Replaces the Citizen
+First we vote. Then power leaves us.
+vetters → parties → parliament
 
 **Emphasis moment:**
 First we vote.
 Then power **leaves** us.
 
 **Transition:**
-Once power leaves the citizen body, networks occupy the space.
+Power leaves. **Networks** move in.
 
 ---
 
@@ -176,15 +182,14 @@ Firm.
 No conspiracy tone.
 
 **Talking path:**
-Oligarchy does not need to hide.
 
-It can operate in daylight.
+Oligarchy does not need to hide.
+It can operate in **daylight**.
 
 Oligarchs do not need to sit in parliament themselves.
-
 They can place influence in front of them:
 
-Party machines decide who enters.
+Party machines decide who **enters**.
 Economic power shapes influence.
 Media visibility shapes attention.
 Appointments shape enforcement.
@@ -193,7 +198,7 @@ The people remain formally sovereign,
 but practically distant from command.
 
 Corruption is not only a moral scandal.
-It is a constitutional symptom.
+It is a constitutional **symptom**.
 
 Access becomes the hidden constitution:
 
@@ -203,15 +208,16 @@ who is protected,
 who is abandoned.
 
 **Visual anchors:**
-Title: Rule by Networks, Not Citizens
-Stat comparison block
-Line: Access becomes the hidden constitution
+Rule by Networks, Not Citizens
+Corruption scores block
+Access becomes the hidden constitution
 
 **Emphasis moment:**
 Access becomes the hidden **constitution**.
 
 **Transition:**
-That hidden constitution gets stronger when citizens cannot see power.
+Hidden constitution gets stronger.
+Citizens cannot **see** power.
 
 ---
 
@@ -225,33 +231,33 @@ Slow down.
 Let the rank land.
 
 **Talking path:**
-Press freedom is not decoration.
 
-It is public eyesight.
+Press freedom is not decoration.
+It is public **eyesight**.
 
 If citizens cannot see power,
 they cannot judge power.
 
 If they cannot judge power,
-they cannot control power.
+they cannot **control** power.
 
 When surveillance, pressure, lawsuits, and managed visibility expand,
-sovereignty becomes theater.
+sovereignty becomes **theater**.
 
 That is not a technical problem.
-That is a legitimacy crisis.
+That is a **legitimacy** crisis.
 
 **Visual anchors:**
-Title: Citizens Cannot Rule in the Dark
-Stat: 86/180
-Bullets: pressure, wiretapping, SLAPP, visibility
+Citizens Cannot Rule in the Dark
+86/180
+pressure, wiretapping, SLAPP, visibility
 
 **Emphasis moment:**
 A people kept in the dark
 cannot be **sovereign**.
 
 **Transition:**
-The repair cannot be another promise from above.
+Repair cannot come from **above**.
 
 ---
 
@@ -265,13 +271,13 @@ Practical.
 Give each tool one beat.
 
 **Talking path:**
-No savior is coming.
 
+No **savior** is coming.
 No leader, party brand, or expert class
 can substitute for citizen rule.
 
 The repair is not cosmetic.
-It is constitutional.
+It is **constitutional**.
 
 Binding referenda.
 Popular legislative initiative.
@@ -282,13 +288,13 @@ Anti-corruption enforcement.
 
 This is not better representation.
 
-This is power returning
+This is power **returning**
 from the political establishment and party delegates
-to the citizen body.
+to the **citizen** body.
 
 **Visual anchors:**
-Title: Return Power to the Citizen Body
-Tool line: referendum, initiative, recall, audit, justice
+Return Power to the Citizen Body
+referendum, initiative, recall, audit, justice
 
 **Emphasis moment:**
 Power must return to the **people**.
@@ -309,7 +315,8 @@ Use contrast.
 Look left, then right.
 
 **Talking path:**
-On the left: republic as oligarchy.
+
+On the **left**: republic as oligarchy.
 
 Voting without command.
 Party delegates.
@@ -317,7 +324,7 @@ Elite networks.
 Hidden bargains.
 Citizens without power.
 
-On the right: democracy of citizens.
+On the **right**: democracy of citizens.
 
 The citizen body rules.
 Policy before personalities.
@@ -327,7 +334,7 @@ Justice under citizen control.
 
 The real question is simple:
 
-Where does power sit?
+Where does **power** sit?
 
 **Visual anchors:**
 Left: Republic as Oligarchy
@@ -337,7 +344,8 @@ Right: Democracy of Citizens
 The choice is oligarchy or **democracy**.
 
 **Transition:**
-So the action demand is sharper: stop asking only to be represented.
+So the demand is sharper.
+Stop asking to be **represented**.
 
 ---
 
@@ -352,12 +360,13 @@ Direct.
 Use eye contact.
 
 **Talking path:**
+
 Stop treating representation
 as the highest form of political life.
 
-Name it:
+**Name** it:
 
-oligarchic republic.
+**oligarchic republic**.
 
 Demand binding referenda.
 
@@ -369,26 +378,24 @@ Demand public audit.
 
 Ask every party, candidate, and movement:
 
-How will citizens control you
+How will citizens **control** you
 after you win?
 
-If they cannot answer,
+If they **cannot** answer,
 they are not offering democracy.
 
-They are asking to become the representative oligarchy
-inside an oligarchic structure.
-
 **Visual anchors:**
-Title: Stop Asking to Be Represented
-Bullets: oligarchic republic, referenda, lawmaking, recall, audit
-Closing line: Representation is not democracy
+Stop Asking to Be Represented
+oligarchic republic, referenda, lawmaking, recall, audit
+Representation is not democracy
 
 **Emphasis moment:**
 Representation is not **democracy**.
 Power to the people is.
 
 **Transition:**
-The sources support the diagnosis. The responsibility is civic.
+Evidence supports the diagnosis.
+Responsibility is **civic**.
 
 ---
 
@@ -403,6 +410,7 @@ Brief.
 Do not read the bibliography.
 
 **Talking path:**
+
 These sources ground the argument:
 
 classical theory,
@@ -411,15 +419,14 @@ institutional indicators,
 and the Greek source material.
 
 But this speech does not end as a bibliography.
-
-It ends as a warning.
+It ends as a **warning**.
 
 If citizens do not hold institutional power,
-democracy is only a name.
+democracy is only a **name**.
 
 And a people that accepts the name
 without the power
-has surrendered the substance.
+has surrendered the **substance**.
 
 **Visual anchors:**
 Democratic theory
@@ -430,5 +437,5 @@ Contemporary argument
 Without citizen power, democracy is only a **name**.
 
 **Closing line:**
-The republic is not enough.
+The republic is not **enough**.
 Power must return to the citizens.
