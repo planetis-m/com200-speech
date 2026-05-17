@@ -144,9 +144,7 @@ Trace the chain visually.
 We are told power **begins** with citizens.
 But the machine moves differently.
 
-Parties filter candidates.
-Party leaders filter programs.
-Media filters attention.
+Parties filter candidates and programs.
 Parliament turns filtered choices into **law**.
 
 Representatives become party delegates,
@@ -161,7 +159,7 @@ That is representation replacing **participation**.
 **Visual anchors:**
 Representation Replaces the Citizen
 First we vote. Then power leaves us.
-vetters → parties → parliament
+CLAIMED SOURCE: Citizens → FILTER OF POWER: Parties → REAL COMMAND: Parliament
 
 **Emphasis moment:**
 First we vote.
@@ -183,22 +181,22 @@ No conspiracy tone.
 
 **Talking path:**
 
-Oligarchy does not need to hide.
-It can operate in **daylight**.
-
-Oligarchs do not need to sit in parliament themselves.
-They can place influence in front of them:
+Oligarchy does not need a mask forever.
+It needs access, money, and gatekeepers.
 
 Party machines decide who **enters**.
-Economic power shapes influence.
-Media visibility shapes attention.
-Appointments shape enforcement.
+Economic power **buys** influence.
+Media visibility **manufactures** attention.
+Appointments **protect the system**.
 
-The people remain formally sovereign,
-but practically distant from command.
+The right panel shows the consequence.
+Rwanda, Qatar, Saudi Arabia — regimes nobody calls democracies —
+all score **cleaner** than Greece on the index.
 
-Corruption is not only a moral scandal.
-It is a constitutional **symptom**.
+If the political class scores cleaner
+than authoritarian states,
+the label "democracy" does the work,
+not the institutions.
 
 Access becomes the hidden constitution:
 
@@ -209,7 +207,7 @@ who is abandoned.
 
 **Visual anchors:**
 Rule by Networks, Not Citizens
-Corruption scores block
+Scored cleaner than Greece — CPI data table
 Access becomes the hidden constitution
 
 **Emphasis moment:**
@@ -241,7 +239,7 @@ they cannot judge power.
 If they cannot judge power,
 they cannot **control** power.
 
-When surveillance, pressure, lawsuits, and managed visibility expand,
+When surveillance, pressure, and silence expand,
 sovereignty becomes **theater**.
 
 That is not a technical problem.
@@ -249,8 +247,8 @@ That is a **legitimacy** crisis.
 
 **Visual anchors:**
 Citizens Cannot Rule in the Dark
-86/180
-pressure, wiretapping, SLAPP, visibility
+86/180 — Press freedom rank
+Press pressure, Wiretapping scandal, SLAPP intimidation, Managed visibility
 
 **Emphasis moment:**
 A people kept in the dark
@@ -283,13 +281,11 @@ Binding referenda.
 Popular legislative initiative.
 Recall of officials.
 Public audit.
-Independent justice.
-Anti-corruption enforcement.
+Justice.
 
 This is not better representation.
 
 This is power **returning**
-from the political establishment and party delegates
 to the **citizen** body.
 
 **Visual anchors:**

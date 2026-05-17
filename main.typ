@@ -236,7 +236,7 @@
   [
     #list((
       [Res publica claims the public interest.],
-      [Officeholders decide what that interest means.],
+      [Party hierarchy decides what that interest means.],
       [Citizens choose a governing class, then vanish from power.],
       [No agenda power means no sovereignty.],
     ))
@@ -406,7 +406,7 @@
     [
       #compare([Democracy of Citizens], (
         [The citizen body rules],
-        [Policy before persons],
+        [Policy before personalities],
         [Recall of officials],
         [Public audit],
         [Justice under citizen control],
