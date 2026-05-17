@@ -237,7 +237,7 @@
     #list((
       [Res publica claims the public interest.],
       [Officeholders decide what that interest means.],
-      [Citizens choose rulers, then vanish from power.],
+      [Citizens choose a governing class, then vanish from power.],
       [No agenda power means no sovereignty.],
     ))
     #v(0.48in)
