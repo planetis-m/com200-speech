@@ -374,8 +374,8 @@ Demand public audit.
 
 Ask every party, candidate, and movement:
 
-How will citizens **control** you
-after you win?
+What is your **plan** to return power
+to citizens after you win?
 
 If they **cannot** answer,
 they are not offering democracy.
